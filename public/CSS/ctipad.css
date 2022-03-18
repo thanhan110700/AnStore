@@ -1,0 +1,99 @@
+.goiy{
+    border: solid 1px #636e72;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+hr {
+    border-top:solid 1px black !important;
+    box-shadow: 0px 0px 4px 0px rgb(0, 0, 2);
+}
+.preview.col-md-4.aloo {
+    align-items: center;
+    background:white;
+border-radius: 5px;
+}
+.details.col-md-5 {
+    text-align: center;
+}
+.btnthemgiohang {
+
+    margin-left: 10em;
+    text-decoration: none;
+    height: 4em;
+    width: 12em;
+    border-radius: 5px;
+    background-color:#eb4d4b;
+    color:white;
+}
+.btnthemgiohang:hover{
+    background-color:#9c211e;
+}
+.imgchitiet {
+    height: 5em;
+box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.2);
+width: 5em;
+border: solid 1.5pxblack;
+border-radius: 5px;
+}
+.imgphu{
+    margin-left: 1em;
+}
+.preview-thumbnail.nav.nav-tabs {
+    margin-bottom: 1em;
+}
+.navbar-toggle.dau3gach {
+    margin-right: -5em !important;
+}
+.search{
+    position: absolute;
+    margin-top: -27px;
+    margin-left: 15.5em !important;
+    cursor: pointer;
+}
+.img-main {
+    box-shadow: 0 1px 6px 0
+rgba(0, 0, 0, 0.2);
+height: 22em;
+width: 20.5em !important;
+margin-top: 1em;
+
+
+
+}
+.tskt{
+
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+.container {
+    margin: auto;
+    text-align: center;
+    padding: 0 0 0 0;
+    width:100% !important;
+}
+@media (max-width: 500px) {
+
+    .tkst{
+        height: 70em;
+        box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+    }
+    .action{
+        margin-left: 36em ;
+        margin-bottom: 2em;
+    }
+    .xemchitiet{
+        margin-left: 43em;
+        margin-bottom: 10em;
+    }
+    .imgphu{
+        margin-left: 0.95em;
+    }
+    .btnthemgiohang {
+    margin-left: 3.3em;
+    }
+    .name-ip{
+        font-size: 1em;
+    }
+}

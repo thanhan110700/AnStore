@@ -1,0 +1,115 @@
+.slogan{
+	font-family: 'Anton', sans-serif;font-size: 5em;
+	color: white;
+	transition: 0.5s;
+	animation:hienra 0.5s forwards;
+}
+.navbar .nav > li > a{
+  font-size: 15px;font-family: Montserrat;
+color: white;
+}
+.navbar .nav > li > a:hover{
+background-color: white;
+color: black;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 200px;
+}
+
+.dropdown-content a {
+  color:black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: Montserrat;
+
+}
+
+.dropdown-content a:hover {
+  border-left: 4px solid #2c3e50;
+ -webkit-transition: .2s all ease;
+    -o-transition: .2s all ease;
+    transition: .2s all ease;}
+
+.dropdown:hover .dropdown-content {display: block;}
+@-webkit-keyframs hienra{
+	0% {
+		opacity: 0;
+
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.Optionsp:hover{
+	background-color: black;
+}
+.img-banner{
+	margin-bottom: 10em;
+	width: 100%;
+}
+.img-ip{
+	margin: 1em 1em;
+	width: 90%;
+	height: 600px;
+}
+.img-ip:hover{
+	transform: scale(1.06);
+}
+.btn-abc{
+	background-color: white;
+	height: 40px;
+	width: 50%;
+	border: solid 2px;
+	font-family: Anton;
+}
+.btnxct:hover{
+	background-color: blue;
+	color: white;
+}
+.btntgh:hover{
+	background-color: orange;
+	color: white;
+}
+.btnmua:hover{
+	background-color: red;
+	color: white;
+}
+.name-ip{
+	font-size: 40px;
+}
+.gia-ip{
+	font-size: 30px;
+	color: red;
+}
+
+.imggiohang{
+	width: 30px;
+}
+.btn-xoagiohang{
+background-color: red;
+color: white;
+}
+.btn{
+	float: right;
+}
+.btn-thanhtoan{
+background-color: #55efc4;
+margin-left: 10px;
+margin-right: 50px;
+}
+.ttkh{
+	width: 40%;
+	text-align: center;
+}
+h2,h5{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}

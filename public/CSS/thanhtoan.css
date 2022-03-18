@@ -1,0 +1,60 @@
+.ttkh{
+	width: 40%;
+	text-align: center;
+}
+h2,h5{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.btnmuahang{
+    border: none;
+    height: 3em;
+    width: 8em;
+    font-size: 25px;
+    font-family: Anton, sans-serif;
+    background-color: #1abc9c;
+    border-radius: 5px;
+}
+.btncapnhat{
+    border: none;
+    height: 3em;
+    width: 8em;
+    font-size: 13px;
+    font-family: Anton, sans-serif;
+    background-color: #2980b9;
+    margin-top:1em;
+    margin-bottom: 1em
+}
+.ttkh{
+
+    width: 20em;
+    border-radius: 2px;
+    border: none;
+    background-color: #7ed6df;
+    outline: none;
+    height: 2.3em;
+    font-family: 'Roboto Slab', serif;
+}
+.ttkh2{
+    font-family: 'Roboto Slab', serif;
+}
+.cnttkh{
+    padding: 2px 0px 0px 23px;
+}
+@media (max-width: 500px) {
+
+    .tieude{
+
+    }
+    .cnttkh{
+        width: 94%;
+    }
+    .btnmuahang{
+        margin-top: 1em;
+    }
+    .ttt{
+        font-size: 8px;
+    }
+    tr > td > b{
+        margin-right:27em !important;
+    }
+}

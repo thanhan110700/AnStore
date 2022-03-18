@@ -1,0 +1,57 @@
+
+::-webkit-input-placeholder {
+    text-align: center;
+}
+.change-avatar{
+    background-color:black;
+
+position: absolute;
+
+height: 6em;
+
+width: 28.1em;
+
+margin-top: -6em;
+
+opacity: 0;
+text-align: center;
+transition: all 0.3s;
+}
+.btndoithongtin{
+
+    margin-right: 8.9em;
+    height: 2em;
+    width: 6em;
+    margin-top: 1em;
+    font-size: 1.4em !important;
+
+}
+.change-avatar:hover{
+    opacity: 0.85;
+}
+.btndtt{
+    border-radius:0px !important;
+    margin-right:1em;
+    outline: none !important;
+}
+.btnsttkh{
+    background-color: #44bd32 !important;
+    margin-right:1em
+}
+@media (max-width: 500px) {
+
+    .change-avatar{
+        width: 22.3em;
+    }
+    .btndoithongtin{
+
+        margin-right: 5.5em;
+
+    }
+    .btn.btn-info.btn-lg.btndtt.btnsttkh {
+        margin: 1em 2em;
+    }
+    .btn.btn-info.btn-lg.btndtt {
+        margin: 1em 4em 0em 0em;
+    }
+}

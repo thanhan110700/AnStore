@@ -1,0 +1,28 @@
+.imggiohang{
+	width: 3px;
+}
+.btn-xoagiohang{
+background-color: red;
+color: white;
+}
+.btn{
+	float: right;
+}
+.btn-thanhtoan{
+background-color: #55efc4;
+margin-left: 10px;
+margin-right: 50px;
+}
+@media (max-width: 500px) {
+
+    .glyphicon.glyphicon-shopping-cart.icon {
+        margin-left: 0.8em;
+    }
+    .tablehoadon {
+        width: 50px !important;
+    }
+    .ttgh{
+        float: left !important;
+        margin-left: 0 !important;
+    }
+}

@@ -1,0 +1,19 @@
+.btnad{
+	text-decoration: none;
+	text-align: center;
+}
+.btnstt{
+	background-color: #0984e3;
+	color: white;
+}
+.btntsp{
+	background-color: #55efc4;
+	color: white;
+}
+.btnxsp{
+	background-color: #d63031;
+	color: white;
+}
+.btnad:hover{
+	text-decoration: none;
+}

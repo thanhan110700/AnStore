@@ -1,0 +1,43 @@
+.topp {
+    height: 2em;
+background-color:bisque;
+font-family: 'Oswald', sans-serif;
+font-size: 1.6em;
+}
+.bott{
+    font-family: 'Roboto Slab', serif;
+}
+.tablehoadon{
+    text-align: center !important;
+    background-color: white;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+}
+.ttdh{
+    font-size: 19px;
+    background-color:#dff9fb;
+}
+.tt{
+    background-color: #48dbfb;
+}
+.icon{
+    font-size: 10em;
+
+    margin-left: 3.8em;
+
+    opacity: 0.7;
+}
+.giohangtrong{
+    font-size: 3em;
+    font-family: 'Oswald', sans-serif;
+    opacity: 0.7;
+}
+a{
+    text-decoration: none;
+}
+@media (max-width: 500px) {
+
+    .tablehoadon {
+        width: 50px;
+    }
+}
+

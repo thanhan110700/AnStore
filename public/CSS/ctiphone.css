@@ -1,0 +1,116 @@
+.goiy{
+    border: none;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+.card{
+    background-color: white;
+}
+hr {
+    border-top:solid 0.1px rgb(189, 189, 189) !important;
+    box-shadow: 0px 0px 4px 0px rgb(201, 201, 201);
+}
+.preview.col-md-4.aloo {
+    align-items: center;
+    background:white;
+    border-radius: 5px;
+}
+.details.col-md-5 {
+    text-align: center;
+}
+.mausp{
+    height: 20px;
+    width: 20px;
+    border-radius: 2px;
+    margin: 0 15px 0 15px;
+}
+.div-mau{
+    margin: auto;
+    display: flex !important;
+}
+.btnthemgiohang {
+
+    margin-left: 10em;
+    text-decoration: none;
+    height: 4em;
+    width: 12em;
+    border-radius: 5px;
+    background-color:#eb4d4b;
+    color:white;
+}
+.btnthemgiohang:hover{
+    background-color:#9c211e;
+}
+.imgchitiet {
+    height: 5em;
+    box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.2);
+    width: 5em;
+    border: solid 1.5pxblack;
+    border-radius: 5px;
+}
+.imgphu{
+    margin-left: 1em;
+}
+.preview-thumbnail.nav.nav-tabs {
+    margin-bottom: 1em;
+}
+.navbar-toggle.dau3gach {
+    margin-right: -5em !important;
+}
+.search{
+    position: absolute;
+    margin-top: -27px;
+    margin-left: 15.5em !important;
+    cursor: pointer;
+}
+.img-main {
+    box-shadow: 0 5px 5px 1px rgba(0, 0, 0, 0.2);;
+height: 22em;
+width: 20.5em !important;
+margin-top: 1em;
+
+}
+.tskt{
+    border-radius: 15px;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+.txt-tskt{   
+    margin: 25px;
+}
+.container {
+    width:100% !important;
+    margin: auto;
+    text-align: center;
+    padding: 0 0 0 0;
+}
+@media (max-width: 500px) {
+
+    .tkst{
+        height: 70em;
+        box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+    }
+    .action{
+        margin-left: 36em ;
+        margin-bottom: 2em;
+    }
+    .xemchitiet{
+        margin-left: 43em;
+        margin-bottom: 10em;
+    }
+    .imgphu{
+        margin-left: 0.95em;
+    }
+    .btnthemgiohang {
+    margin-left: 4.3em;
+    }
+    .btn-close{
+        float: right;
+        margin-right: -1em;
+    }
+    .name-ip{
+        font-size: 1em;
+    }
+}

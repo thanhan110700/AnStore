@@ -1,0 +1,326 @@
+.slogan{
+	font-family: 'Anton', sans-serif;font-size: 5em;color: white; margin-bottom: 200px;
+}
+.navbar .nav > li > a{
+  font-size: 15px;font-family: Montserrat;
+color: white;
+background: none;
+}
+.navbar .nav > li > a:hover{
+background-color: white;
+color: black;
+}
+.pagination{
+    bottom:0;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 200px;
+}
+
+.dropdown-content a {
+  color:black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: Montserrat;
+
+}
+
+/* tai trang */
+.img1{
+    opacity: 0;
+
+}
+
+/* tải trang */
+
+/* thông tin người dùng */
+
+/* thông tin người dùng */
+
+
+.dropdown-content a:hover {
+  border-left: 4px solid #2c3e50;
+ -webkit-transition: .2s all ease;
+    -o-transition: .2s all ease;
+    transition: .2s all ease;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.Optionsp:hover{
+	background-color: black;
+}
+.img-banner{
+	margin-bottom: 10em;
+    width: 100%;
+    opacity:0;
+}
+
+.show{
+    opacity: 1;
+}
+.img-ip{
+	margin: 1em 1em;
+	width: 90%;
+	height: 600px;
+}
+.img-ip:hover{
+	transform: scale(1.06);
+}
+.btn-abc{
+	background-color: white;
+	height: 40px;
+	width: 50%;
+	border: solid 2px;
+	font-family: Anton;
+}
+.btnxct:hover{
+	background-color: blue;
+	color: white;
+}
+.btntgh:hover{
+	background-color: orange;
+	color: white;
+}
+.btnmua:hover{
+	background-color: red;
+	color: white;
+}
+.name-ip{
+	font-size: 40px;
+}
+.gia-ip{
+	font-size: 30px;
+	color: red;
+}
+
+.imggiohang{
+	width: 30px;
+}
+.btn-xoagiohang{
+background-color: red;
+color: white;
+}
+.btn{
+	float: right;
+}
+.btn-thanhtoan{
+background-color: #55efc4;
+margin-left: 10px;
+margin-right: 50px;
+}
+.ttkh{
+	width: 40%;
+	text-align: center;
+}
+h2,h5{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.ttnd{
+    font-size: 20px;
+}
+.imggiohang{
+	width: 30px;
+}
+.btn-xoagiohang{
+background-color: red;
+color: white;
+}
+.btn{
+	float: right;
+}
+.thumbnail{
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+}
+::-webkit-input-placeholder {
+    text-align: center;
+}
+.btn-thanhtoan{
+background-color: #55efc4;
+margin-left: 10px;
+margin-right: 50px;
+}
+.navbar .nav > li > a{
+  font-size: 15px;font-family: Montserrat;
+color: white;
+}
+.navbar .nav > li > a:hover{
+background-color: white;
+color: black;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 12em;
+}
+
+.dropdown-content a {
+  color:black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: Montserrat;
+
+}
+
+.dropdown-content a:hover {
+  border-left: 4px solid #2c3e50;
+ -webkit-transition: .2s all ease;
+    -o-transition: .2s all ease;
+    transition: .2s all ease;}
+
+.dropdown:hover .dropdown-content {display: block;}
+body{
+padding-top:40px;
+}
+
+.body-bg{
+background: linear-gradient(to right,#7cacdc,#e0e5eb);
+}
+
+form{
+font-family: 'Roboto', sans-serif;
+}
+
+.form-horizontal .header{
+background: #b5953f;
+padding: 10px 25px;
+font-size: 30px;
+color: #fff;
+text-transform: uppercase;
+border-radius: 3px 3px 0 0;
+}
+
+.form-horizontal .form-content{
+padding: 25px;
+background: #f9fafd;
+}
+
+.form-horizontal .form-control{
+padding: 10px 10px 10px 15px;
+height: 50px;
+font-size: 18px;
+color: #000;
+border: 2px solid #acacac;
+margin-bottom: 15px;
+}
+
+.form-horizontal .form-control:hover{
+border-color: #c9af67;
+}
+
+.form-horizontal .form-control:focus{
+border-color: #b5953f;
+box-shadow: none;
+}
+
+.form-horizontal .control-label{
+width: 42px;
+height: 40px;
+font-size: 17px;
+color: #acacac;
+border-left: 1px solid #acacac;
+position: absolute;
+top: 5px;
+right: 20px;
+text-align: center;
+}
+
+.form-horizontal .captcha{
+padding-right: 0;
+}
+
+.form-horizontal .captcha label{
+background: #e0e0e0;
+display: block;
+height: 50px;
+font-size: 16px;
+color: #acacac;
+line-height: 45px;
+text-align: center;
+border-radius: 3px 0 0 3px;
+}
+
+.form-horizontal .captcha-text{
+padding-left: 0;
+}
+
+.form-horizontal .captcha-text input{
+border-radius: 0 3px 3px 0;
+}
+
+.form-horizontal .footer{
+background: #e8eaf6;
+border-top: 1px solid #b5953f;
+padding: 10px 25px;
+}
+
+.form-horizontal .footer .btn{
+background: #b5953f;
+font-size: 18px;
+color: #fff;
+float: right;
+margin: 10px 0;
+clear: both;
+padding: 10px 25px;
+transition: all 2s ease 0s;
+}
+
+.form-horizontal .name{
+padding: 10px 15px;
+}
+
+@media only screen and (max-width:767px){
+    .form-horizontal .control-label i{
+    line-height: 40px;
+    }
+
+    .form-horizontal .captcha label{
+    font-size: 13px;
+    }
+    .pagination{
+        margin-left: -29em !important;
+    }
+    .t1{
+        margin-left: -6em;
+    }
+    .t2{
+        margin-right: -7em;
+        font-size: 0.5em;
+    }
+    .t3{
+        margin-left: -6em;
+        font-size: 1em;
+        margin-top: -58px;
+    }
+}
+.ttkh{
+	width: 40%;
+	text-align: center;
+}
+h2,h5{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+/* Đăng nhập */
+
+a{
+    cursor: pointer;
+}
+
+
